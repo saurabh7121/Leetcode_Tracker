@@ -1,0 +1,25 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Output directories (Build artifacts)
+dist/
+build/
+out/
+
+# Environment variables and secrets
+.env
+.env.local
+.env.production
+
+# Operating system files
+.DS_Store
+Thumbs.db
